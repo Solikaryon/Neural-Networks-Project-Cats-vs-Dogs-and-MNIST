@@ -1,0 +1,10 @@
+{
+  "train_samples": 54000,
+  "val_samples": 6000,
+  "test_samples": 10000,
+  "image_shape": [
+    28,
+    28,
+    1
+  ]
+}
