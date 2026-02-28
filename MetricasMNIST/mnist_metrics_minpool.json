@@ -1,0 +1,67 @@
+{
+  "hyperparameters": {
+    "learning_rate": 0.001,
+    "epochs": 10,
+    "batch_size": 64
+  },
+  "history": {
+    "train_loss": [
+      0.5018958073854446,
+      0.19050707697868347,
+      0.135773375985799,
+      0.10710595126284493,
+      0.09324668902489874,
+      0.07963373335975188,
+      0.07151107163837662,
+      0.06386122618891575,
+      0.058103814563265556,
+      0.05449321892084899
+    ],
+    "val_loss": [
+      0.16997228144605955,
+      0.1091250938475132,
+      0.08888805007189512,
+      0.08438630044460296,
+      0.06469211491694053,
+      0.06538761754892766,
+      0.05955788798630238,
+      0.0677510240917715,
+      0.055306858569383624,
+      0.050739875997106235
+    ],
+    "train_acc": [
+      0.8439074074074074,
+      0.9430185185185185,
+      0.958962962962963,
+      0.9676481481481481,
+      0.9722777777777778,
+      0.9758518518518519,
+      0.9778333333333333,
+      0.9807222222222223,
+      0.9817962962962963,
+      0.9827407407407407
+    ],
+    "val_acc": [
+      0.949,
+      0.9668333333333333,
+      0.9731666666666666,
+      0.9745,
+      0.9813333333333333,
+      0.9811666666666666,
+      0.983,
+      0.9811666666666666,
+      0.9835,
+      0.9866666666666667
+    ]
+  },
+  "report": "              precision    recall  f1-score   support\n\n           0     0.9878    0.9918    0.9898       980\n           1     0.9938    0.9947    0.9943      1135\n           2     0.9808    0.9913    0.9860      1032\n           3     0.9940    0.9851    0.9896      1010\n           4     0.9839    0.9929    0.9883       982\n           5     0.9943    0.9843    0.9893       892\n           6     0.9875    0.9875    0.9875       958\n           7     0.9855    0.9903    0.9879      1028\n           8     0.9918    0.9897    0.9908       974\n           9     0.9900    0.9802    0.9851      1009\n\n    accuracy                         0.9889     10000\n   macro avg     0.9889    0.9888    0.9888     10000\nweighted avg     0.9889    0.9889    0.9889     10000\n",
+  "test_accuracy": 0.9889,
+  "test_macro_f1": 0.9888466168589897,
+  "model_path": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\ModeloMNIST\\mnist_cnn_model_minpool.pth",
+  "curves_png": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\MetricasMNIST\\mnist_learning_curves_minpool.png",
+  "curves_svg": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\MetricasMNIST\\mnist_learning_curves_minpool.svg",
+  "cm_png": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\MetricasMNIST\\mnist_confusion_matrix_minpool.png",
+  "cm_svg": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\MetricasMNIST\\mnist_confusion_matrix_minpool.svg",
+  "accuracy_png": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\MetricasMNIST\\mnist_accuracy_minpool.png",
+  "accuracy_svg": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\MetricasMNIST\\mnist_accuracy_minpool.svg"
+}

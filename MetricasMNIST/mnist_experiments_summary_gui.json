@@ -1,0 +1,17 @@
+{
+  "baseline": {
+    "model_path": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\ModeloMNIST\\mnist_cnn_model_baseline.pth",
+    "curves_png": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\MetricasMNIST\\mnist_learning_curves_baseline.png",
+    "cm_png": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\MetricasMNIST\\mnist_confusion_matrix_baseline.png",
+    "metrics_json": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\MetricasMNIST\\mnist_metrics_baseline.json"
+  },
+  "alt_lr": {
+    "model_path": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\ModeloMNIST\\mnist_cnn_model_alt_lr.pth",
+    "curves_png": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\MetricasMNIST\\mnist_learning_curves_alt_lr.png",
+    "cm_png": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\MetricasMNIST\\mnist_confusion_matrix_alt_lr.png",
+    "metrics_json": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\MetricasMNIST\\mnist_metrics_alt_lr.json"
+  },
+  "baseline_f1": 0.9911731312919219,
+  "alt_lr_f1": 0.9895096922519105,
+  "best": "baseline"
+}

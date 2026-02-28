@@ -1,0 +1,19 @@
+{
+  "baseline": {
+    "curves_png": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\Metricas\\learning_curves_baseline.png",
+    "curves_svg": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\Metricas\\learning_curves_baseline.svg",
+    "cm_png": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\Metricas\\confusion_matrix_baseline.png",
+    "cm_svg": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\Metricas\\confusion_matrix_baseline.svg",
+    "metrics_json": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\Metricas\\metrics_baseline.json"
+  },
+  "alt_lr": {
+    "curves_png": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\Metricas\\learning_curves_alt_lr.png",
+    "curves_svg": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\Metricas\\learning_curves_alt_lr.svg",
+    "cm_png": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\Metricas\\confusion_matrix_alt_lr.png",
+    "cm_svg": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\Metricas\\confusion_matrix_alt_lr.svg",
+    "metrics_json": "D:\\beto5\\Descargas\\Tareas\\9no\\Neuronales\\a\\ProyectoRedesNeuronales\\Metricas\\metrics_alt_lr.json"
+  },
+  "baseline_f1": 0.8277076606985618,
+  "alt_lr_f1": 0.8717666483214089,
+  "best": "alt_lr"
+}
